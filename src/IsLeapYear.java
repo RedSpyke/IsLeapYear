@@ -13,7 +13,6 @@ public class IsLeapYear {
             }
         } else {
             return leapYear;
-
         }
         return leapYear;
     }
